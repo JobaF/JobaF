@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Jabo
-- 👀 I’m interested in Blockchain, AI and Cryptography
+- 👋 Hi, I’m Jabo F.
+- 👀 I’m interested in Blockchain, AI and Cryptography.
 - 🌱 I’m currently learning Solidity, JS, Python...
-- 📫 How to reach me @JobaF
+- 📫 How to reach me @JobaF.
 
 <!---
 JobaF/JobaF is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
